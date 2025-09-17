@@ -18,7 +18,7 @@ Cloud adoption is booming, but **cost management remains one of the top challeng
 
 ## 🏗️ Architecture Overview  
 
-![System Architecture](./architecture.png)  
+![Cloud Cost Comparison Architecture](https://kroki.io/mermaid/svg/eNptUc1OwzAMvvMUPnZC4wF2QOpPOjgwlZWxQ7RD6MwIdMlIUm1FfXicpJMQWw-O4-8ntvve6mPzIYyDl-IG6FtZNAn3cTOB6fR-YMqhgSV-d9LgHpWzA5SMl0YToLYzgkTjQBtY4MndfdpN8ClZUNdECWK0boCM8Uw0X0G20FskNtwCOx0MWtIFYRaEkFaPPKEAc-HwKPpJtPUVDzO1kwp5rq2DVIm2t9KOxUiMeeAWGU8K4cSbsDjaFFnszmmDA1Qe5ZWRjVQ78BfwiNjhNfbqQVrK-rAkeO7Q9DCWxhH-vJ2uaxpjXcPZnQaYXHSY_nQGiecP2pYTsg0CtNf587ziCQXIqddWn13_05Zou9bxJ6nkvttDWFasRceYx32eDto4vkR_jLcZ5PWr_7FVUV4ISnbzC-zIr5I=)
 
 ### Frontend  
 - React.js / Next.js (clean UI for entering requirements & viewing results)  
